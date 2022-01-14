@@ -19,7 +19,8 @@
 ****
 
 ### Delphi Component
-![Delphi 컴포넌트](https://user-images.githubusercontent.com/75933643/149288643-c4debcd6-c621-4b76-9608-e49a8afa9a78.png)
+
+<img title="" src="file:///C:/Users/user0104/Desktop/프로그래밍/Delphi/공부정리.md/image/Delphi 컴포넌트.png" alt="">
 
 * 비주얼 컴포넌트 : UI 컨트롤(버튼, 체크박스, 에디트 등)
 
@@ -28,8 +29,8 @@
 ****
 
 ### 실습용 컴포넌트
-![실습용 컴포넌트](https://user-images.githubusercontent.com/75933643/149288650-45b99441-a2dd-4510-992d-837ee086fe21.png)
 
+<img title="" src="file:///C:/Users/user0104/Desktop/프로그래밍/Delphi/공부정리.md/image/실습용 컴포넌트.png" alt="">
 
 ### 주요 속성(P), 메소드(M), 이벤트(E)
 
@@ -57,42 +58,6 @@
   
   * Lines.Add (M)
 
-
-
 ShowMessage(문자열);
 
 ****
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
